@@ -35,7 +35,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/Plants.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -97,6 +97,11 @@ h6 {
     background-color: #f8f8f8;
 }
 
+
+.content1{
+    margin-top: 30px;
+}
+
 .content-section-b {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
@@ -109,6 +114,12 @@ h6 {
 
 .section-heading-spacer {
     float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.section-heading-spacer1{
+    float: center;
     width: 200px;
     border-top: 3px solid #e7e7e7;
 }
@@ -133,6 +144,10 @@ h6 {
 .banner-social-buttons {
     float: right;
     margin-top: 0;
+}
+
+.button .btn {
+    background-color: #f8f8f8;
 }
 
 @media(max-width:1199px) {
