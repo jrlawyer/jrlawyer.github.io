@@ -35,7 +35,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/Plant.JPG) no-repeat center center;
+    background: url(../img/Colorado2.JPG) no-repeat center center;
     background-size: cover;
 }
 
@@ -98,8 +98,13 @@ h6 {
 }
 
 
-.content1{
+.content1 {
     margin-top: 30px;
+}
+
+
+.content2 {
+    border: 1px solid #f8f8f8;
 }
 
 .content-section-b {
@@ -127,7 +132,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/Succulents.JPG) no-repeat center center;
+    background: url(../img/Colorado4.JPG) no-repeat center center;
     background-size: cover;
 }
 
