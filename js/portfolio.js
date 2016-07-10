@@ -2,7 +2,7 @@
 
 var day = (new Date().getDay());
 
-// var day = 6
+// var day = 4
 var msg = "";
 var author = "";
 
@@ -24,8 +24,8 @@ switch (day){
     author = "Max Ehrmann"
     break; 
   case 4:    
-    msg = "It’s dark because you are trying too hard. Lightly child, lightly. Learn to do everything lightly. Yes, feel lightly even though you’re feeling deeply. Just lightly let things happen and lightly cope with them.";
-    author = "Aldous Huxley"
+    msg = "It’s the age-old concept of like attracts like, or the law of attraction. You get back what you put out, so you might as well think positively, focus on visualizing what you want instead of getting distracted by what you don’t want, and send the universe your good intentions so that it can send them right back.";
+    author = "Sophia Amoruso"
     break;
   case 5:    
     msg = "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.";
