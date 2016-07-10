@@ -203,3 +203,7 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.thumbnail {
+    border: 3px solid #ddd;
+}
