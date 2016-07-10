@@ -207,3 +207,7 @@ p.copyright {
 .thumbnail {
     border: 3px solid #ddd;
 }
+
+.img-responsive {
+    border-radius: 10px;
+}
