@@ -107,6 +107,8 @@ h6 {
     border: 1px solid #f8f8f8;
 }
 
+
+
 .content-section-b {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
@@ -127,6 +129,12 @@ h6 {
     float: center;
     width: 200px;
     border-top: 3px solid #e7e7e7;
+}
+
+.section-heading-spacer2{
+    float: right;
+    width: 200px;
+    opacity: 0;
 }
 
 .banner {
@@ -153,6 +161,13 @@ h6 {
 
 .button .btn {
     background-color: #f8f8f8;
+}
+
+.content3{
+    background-color: rgba(248,248,248, 0.6);
+    border-radius: .5em;
+    padding: 1em;
+    color: #000000;
 }
 
 @media(max-width:1199px) {
