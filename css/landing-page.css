@@ -22,7 +22,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 18px; 
 }
 
 .lead {
@@ -210,4 +210,8 @@ p.copyright {
 
 .img-responsive {
     border-radius: 10px;
+}
+
+.font {
+    font-size: 18px;
 }
